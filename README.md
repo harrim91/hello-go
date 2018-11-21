@@ -1,0 +1,4 @@
+# Hello Go
+
+Go Katas
+
